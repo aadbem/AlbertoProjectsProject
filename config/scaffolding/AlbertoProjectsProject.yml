@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: AlbertoProjectsProject
+  gitServerName: WebMethods
+  gitUrl: https://github.com/aadbem
+  gitUsername: aadbem
+  gitBranch: main
